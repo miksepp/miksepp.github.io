@@ -1,2 +1,1 @@
-# miksepp.github.io
-Personal webpage
+My personal webpage at https://miksepp.github.io/
