@@ -1,13 +1,27 @@
 body {
     font-family: Arial, Sans-Serif;
     margin: 60px auto;
-    width: 70%;
+    width: 50%;
 }
 
 nav ul {
     list-style: none;
     font-weight: bold;
     font-size: 1.5em;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #111;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 footer {
